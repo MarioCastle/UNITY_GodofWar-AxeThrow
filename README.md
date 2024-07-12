@@ -1,10 +1,11 @@
 <p align="center">
     <img width="400px" src="http://mixandjam.com/wp-content/uploads/2019/11/git.png">    
 </p>
-![image](https://github.com/user-attachments/assets/420a5474-02d4-4bca-80d8-50c586d54245)
-![image](https://github.com/user-attachments/assets/a3212b8b-6c93-4723-9358-cb4333043b7a)
+
 
 # God of War's Axe Throw | Mix and Jam [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/PwCzrBX) <a href="https://patreon.com/mixandjam"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fmixandjam" /></a>
+![image](https://github.com/user-attachments/assets/420a5474-02d4-4bca-80d8-50c586d54245)
+![image](https://github.com/user-attachments/assets/a3212b8b-6c93-4723-9358-cb4333043b7a)
 
 This is the official respository for the episode #6 of the [Mix and Jam Youtube Channel](https://www.youtube.com/c/MixAndJam)!
 
